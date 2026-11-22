@@ -1,8 +1,8 @@
 {
-  "code": 468814,
-  "name": "22.11.2026 16:34",
-  "url": "https://raw.githubusercontent.com/baristufantepe/tazeka-surumler/main/tazeka-468814.apk",
-  "sha256": "cc5249da5e96e5d043b11db244dedb7c10a626bee0d3ace8e8ea40733b0f22af",
-  "size": 61310999,
-  "notes": "Uygulama içinden güncellemenin ilk denemesi. Yeni özellik yok; güncellemenin çalıştığını görmek için."
+  "code": 468838,
+  "name": "22.11.2026 16:58",
+  "url": "https://raw.githubusercontent.com/baristufantepe/tazeka-surumler/main/tazeka-468838.apk",
+  "sha256": "3a1e05b130f7b7b13271869d4e3b1bc07d8fa7adaf7f9e61b438d75b9c6e7872",
+  "size": 61402715,
+  "notes": "Yeni TAZEKA simgesi (yaprak). Menü > Hesabımı sil eklendi (Google Play için)."
 }
