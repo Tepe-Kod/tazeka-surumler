@@ -1,6 +1,6 @@
 # TAZEKA Gizlilik Politikası
 
-Son güncelleme: 22 Kasım 2026
+Son güncelleme: 22 Kasım 2026 (kullanım istatistikleri eklendi)
 
 TAZEKA, ailelerin mutfaklarındaki ürünleri birlikte takip etmesi için
 TepeKod tarafından geliştirilmiş bir uygulamadır. Bu sayfa hangi bilgilerin neden toplandığını
@@ -21,6 +21,12 @@ ve nasıl korunduğunu anlatır.
   Facts veritabanında aranır.
 - **Ses:** sesle ekleme ve sesle yazma, telefonunuzun Google ses tanıma
   hizmetiyle yazıya çevrilir. TAZEKA ses kaydı saklamaz.
+- **Kullanım bilgileri:** uygulamayı en son ne zaman açtığınız, telefonunuzdaki
+  TAZEKA sürümü ve yapay zekâ özelliklerinin kullanımı (hangi özellik, ne
+  kadar sürdü, başarılı olup olmadığı). Fotoğraf, ürün adı ya da yazdığınız
+  metin bu kayıtlara girmez. Uygulamanın düzgün çalışmasını izlemek, hataları
+  bulmak ve maliyeti kontrol etmek için yalnızca TepeKod görür. Hesabınızı
+  silerseniz bu kayıtlar adınız ve e-postanız olmadan istatistik olarak kalır.
 
 ## Kullanılan hizmetler
 
@@ -35,7 +41,9 @@ sağlayıcılar dışında üçüncü kişilerle paylaşılmaz.
 ## Güvenlik
 
 Veriler aktarım sırasında şifrelenir. Bir evin bilgilerine yalnızca o evin
-üyeleri erişebilir.
+üyeleri erişebilir. TepeKod yönetim amacıyla kullanıcı listesini, evlerin adını,
+üyelerini ve ürün sayısını görebilir; yönetim ekranında dolabınızdaki ürünler
+tek tek gösterilmez.
 
 ## Verilerin silinmesi
 
