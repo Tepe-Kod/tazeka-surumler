@@ -1,8 +1,8 @@
 {
-  "code": 469877,
-  "name": "23.11.2026 10:17",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469877.apk",
-  "sha256": "40aac22ccc6768403aecf76375a824f578778e45cead291e69c8e177dbf48829",
-  "size": 61801937,
-  "notes": "Yeni widget'lar, ekmek göstergesi, yeni Hızlı Ekle/Çıkar, Hesabım, sade menü, ölçülü tarifler."
+  "code": 469910,
+  "name": "23.11.2026 10:50",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469910.apk",
+  "sha256": "4cfc32f5ffb05013c358a1960550bbfeb4c58d56c5aadb4b19b44306cc9f5ce5",
+  "size": 61801929,
+  "notes": "Widget düzeltildi, ana sayfa düğmeleri düzeldi, Yemek Öner yanında Ekmek düğmesi."
 }
