@@ -1,8 +1,8 @@
 {
-  "code": 469970,
-  "name": "23.11.2026 11:50",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469970.apk",
-  "sha256": "5ff45ad7ed3b0f5b26c9bd25ba4b8ed54716e7e8ddddb2931fb4582607ca6356",
-  "size": 61916773,
-  "notes": "Ekmek paneli tüm ekmekleri gösterir; güncelleme arka planda iner; tarifler menüye eklenir; yapay zekâ beklerken ne yaptığı yazar."
+  "code": 469989,
+  "name": "23.11.2026 12:09",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469989.apk",
+  "sha256": "acf4dbfa0644efeca792b01e8e686365d50ae751e1acb58eb7d4e53e29f63f1d",
+  "size": 61933157,
+  "notes": "Dolapta 'Yeni' işareti; yemek önerisinde 'Başka öner'."
 }
