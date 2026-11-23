@@ -1,8 +1,8 @@
 {
-  "code": 469910,
-  "name": "23.11.2026 10:50",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469910.apk",
-  "sha256": "4cfc32f5ffb05013c358a1960550bbfeb4c58d56c5aadb4b19b44306cc9f5ce5",
-  "size": 61801929,
-  "notes": "Widget düzeltildi, ana sayfa düğmeleri düzeldi, Yemek Öner yanında Ekmek düğmesi."
+  "code": 469970,
+  "name": "23.11.2026 11:50",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-469970.apk",
+  "sha256": "5ff45ad7ed3b0f5b26c9bd25ba4b8ed54716e7e8ddddb2931fb4582607ca6356",
+  "size": 61916773,
+  "notes": "Ekmek paneli tüm ekmekleri gösterir; güncelleme arka planda iner; tarifler menüye eklenir; yapay zekâ beklerken ne yaptığı yazar."
 }
