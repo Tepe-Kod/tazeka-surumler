@@ -1,8 +1,8 @@
 {
-  "code": 471527,
-  "name": "24.11.2026 13:47",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-471527.apk",
-  "sha256": "0943f22ce2ada6c0c907520e8f88efbff2840675aa00f649b8a39a4427bc4d56",
-  "size": 63589857,
-  "notes": "Premium ekranının görünümü düzeltildi."
+  "code": 471649,
+  "name": "24.11.2026 15:49",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-471649.apk",
+  "sha256": "ac7600f0eac023664898828c8b4920403c765c189428b9b77a22edb1cc3bb438",
+  "size": 63622625,
+  "notes": "Haftalık menü düzeltildi: diyet seçmeden de hazırlanır, daha hızlı, hata olursa nedeni yazar."
 }
