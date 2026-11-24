@@ -1,6 +1,6 @@
 # TAZEKA Gizlilik Politikası
 
-Son güncelleme: 22 Kasım 2026 (kullanım istatistikleri eklendi)
+Son güncelleme: 24 Kasım 2026 (Premium abonelik eklendi)
 
 TAZEKA, ailelerin mutfaklarındaki ürünleri birlikte takip etmesi için
 TepeKod tarafından geliştirilmiş bir uygulamadır. Bu sayfa hangi bilgilerin neden toplandığını
@@ -27,10 +27,18 @@ ve nasıl korunduğunu anlatır.
   metin bu kayıtlara girmez. Uygulamanın düzgün çalışmasını izlemek, hataları
   bulmak ve maliyeti kontrol etmek için yalnızca TepeKod görür. Hesabınızı
   silerseniz bu kayıtlar adınız ve e-postanız olmadan istatistik olarak kalır.
+- **Abonelik bilgileri:** Premium satın alırsanız ödeme Google Play
+  üzerinden yapılır; kart bilgileriniz TAZEKA'ya ya da TepeKod'a ulaşmaz.
+  Aboneliğin geçerli olup olmadığını doğrulamak için satın alma kaydı
+  (hangi paket, başlangıç ve bitiş tarihi) hesap kimliğinizle birlikte
+  RevenueCat hizmetinde tutulur. Aboneliğin kapsadığı evlerde abone olan
+  kişinin adı, paketi ve bitiş tarihi görünür. Evlerin deneme süresi ve
+  haftalık yapay zekâ hakkı sayısı da kaydedilir.
 
 ## Kullanılan hizmetler
 
 - Google Firebase (giriş, veritabanı, yapay zekâ)
+- Google Play Faturalandırma ve RevenueCat (Premium abonelik)
 - Open Food Facts (barkod bilgisi)
 
 ## Paylaşım
