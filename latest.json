@@ -1,8 +1,8 @@
 {
-  "code": 472884,
-  "name": "25.11.2026 12:24",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472884.apk",
-  "sha256": "c61fefa519dbbe529cc57ae9fc8f03dedbf2e8d331d00f3b98c96aa0de3d45de",
-  "size": 64032637,
-  "notes": "Alışveriş listesi ve notlar: küçültünce kare kare, büyütünce satır satır (Dolabım gibi)."
+  "code": 472927,
+  "name": "25.11.2026 13:07",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472927.apk",
+  "sha256": "057f3943ba2db01180983bfdb17fe10aa9c8049eebb0665978a87b87648f1df1",
+  "size": 64065405,
+  "notes": "Alışveriş listesinde ürün adı ve miktarı düzenlenebilir (ada dokunun). '2 kg domates' yazınca miktar ayrı görünür."
 }

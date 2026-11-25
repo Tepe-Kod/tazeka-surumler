@@ -1,5 +1,10 @@
 [
   {
+    "code": 472927,
+    "name": "25.11.2026 13:07",
+    "notes": "Alışveriş listesinde ürün adı ve miktarı düzenlenebilir (ada dokunun). '2 kg domates' yazınca miktar ayrı görünür."
+  },
+  {
     "code": 472884,
     "name": "25.11.2026 12:24",
     "notes": "Alışveriş listesi ve notlar: küçültünce kare kare, büyütünce satır satır (Dolabım gibi)."
