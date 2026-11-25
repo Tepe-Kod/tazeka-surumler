@@ -1,8 +1,8 @@
 {
-  "code": 472069,
-  "name": "24.11.2026 22:49",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472069.apk",
-  "sha256": "1053f6ea296c3547644f476525302bfa67073a11a9c11505ea7a17cca691f24e",
-  "size": 63737429,
-  "notes": "Haftalık listede diyet yemekleri düzenlenebilir. Yeni: Eksikleri bul, alışveriş listesine ekle."
+  "code": 472749,
+  "name": "25.11.2026 10:09",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472749.apk",
+  "sha256": "58a2853a1129cf5dfb1abfd283c206406d9787fc81065fe72433572f90787254",
+  "size": 63967005,
+  "notes": "Yeni: Ev notları (ana sayfada Notlar). Yemek yazma paneli yenilendi: Fikir ver, diyetine göre öner."
 }
