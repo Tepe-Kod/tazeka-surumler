@@ -1,5 +1,10 @@
 [
   {
+    "code": 472950,
+    "name": "25.11.2026 13:30",
+    "notes": "Ana sayfayı aşağı çekince yenilenir ve güncelleme kontrol edilir. Sol altta son güncelleme saati."
+  },
+  {
     "code": 472927,
     "name": "25.11.2026 13:07",
     "notes": "Alışveriş listesinde ürün adı ve miktarı düzenlenebilir (ada dokunun). '2 kg domates' yazınca miktar ayrı görünür."
