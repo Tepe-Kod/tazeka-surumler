@@ -1,8 +1,8 @@
 {
-  "code": 473246,
-  "name": "25.11.2026 18:26",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473246.apk",
-  "sha256": "be0a6f5daf2a240b34b65419c77c45ad38fe2947dc802f8050eff4a62a4b1fd6",
-  "size": 64674078,
-  "notes": "Dolabım: kare görünümde basılı tutunca çoklu seçim (Sil, Yedim, Attım). Sesle eklemede 'Tekrar söyle' düğmesi."
+  "code": 473284,
+  "name": "25.11.2026 19:04",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473284.apk",
+  "sha256": "8e88b8d2b3d6b202d06b7f2fb77953036d61381f4c7453d65c5c109fccfa4ac8",
+  "size": 64674074,
+  "notes": "Gün sonu: ana sayfanın altında her zaman duran küçük '🌙 Bugün ne tükettiniz?' düğmesi. Dondurucudaki yemekler artık sorulmuyor; buzdolabı ve mutfaktaki pişmiş yemekler (börek, kek gibi fırın işleri dahil) soruluyor. Tarihi yaklaşanlarda ve pişmiş yemeklerde '🗑 Bozuldu' seçeneği. Hızlı eklemede kutunun adı 'Ürün ekle / çıkar'."
 }

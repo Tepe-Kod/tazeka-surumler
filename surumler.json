@@ -1,5 +1,10 @@
 [
   {
+    "code": 473284,
+    "name": "25.11.2026 19:04",
+    "notes": "Gün sonu: ana sayfanın altında her zaman duran küçük '🌙 Bugün ne tükettiniz?' düğmesi. Dondurucudaki yemekler artık sorulmuyor; buzdolabı ve mutfaktaki pişmiş yemekler (börek, kek gibi fırın işleri dahil) soruluyor. Tarihi yaklaşanlarda ve pişmiş yemeklerde '🗑 Bozuldu' seçeneği. Hızlı eklemede kutunun adı 'Ürün ekle / çıkar'."
+  },
+  {
     "code": 473246,
     "name": "25.11.2026 18:26",
     "notes": "Dolabım: kare görünümde basılı tutunca çoklu seçim (Sil, Yedim, Attım). Sesle eklemede 'Tekrar söyle' düğmesi."
