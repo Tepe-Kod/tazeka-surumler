@@ -1,8 +1,8 @@
 {
-  "code": 472846,
-  "name": "25.11.2026 11:46",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472846.apk",
-  "sha256": "2910f69c7766bcf54c3403a93e1544443ce63d4a6fbe840c26ad3b3cc41a4ab9",
-  "size": 64016229,
-  "notes": "Menü > Uygulama: son 5 sürümün yenilikleri görünüyor."
+  "code": 472884,
+  "name": "25.11.2026 12:24",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472884.apk",
+  "sha256": "c61fefa519dbbe529cc57ae9fc8f03dedbf2e8d331d00f3b98c96aa0de3d45de",
+  "size": 64032637,
+  "notes": "Alışveriş listesi ve notlar: küçültünce kare kare, büyütünce satır satır (Dolabım gibi)."
 }
