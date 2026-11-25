@@ -1,5 +1,10 @@
 [
   {
+    "code": 473527,
+    "name": "25.11.2026 23:07",
+    "notes": "Fiyat ekranı düzeltmeleri: A101 artık Kapıda (market) aramasını açıyor; arama adresleri sitelerin kendi biçimiyle. Cimri telefonun tarayıcısında açılıyor. Taze ürünlerde sıra: Market Fiyatı, marketler, en sonda Akakçe ve Cimri (yerel marketleri göstermiyorlar)."
+  },
+  {
     "code": 473488,
     "name": "25.11.2026 22:28",
     "notes": "Fiyat karşılaştırma: alışveriş listesinde ürünün yanındaki 💰 düğmesi (ya da ürüne basılı tutunca 'Fiyatları karşılaştır'). Ürün; Market Fiyatı (TÜBİTAK, yakın şubelerin fiyatları), Akakçe, Cimri ve Migros, A101, Şok, CarrefourSA sitelerinde uygulamanın içinde sekme sekme aranır. Taze üründe Market Fiyatı, paketli üründe Akakçe önde. Görünecek siteler Mağaza ayarlarından seçilir."
