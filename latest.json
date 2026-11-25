@@ -1,8 +1,8 @@
 {
-  "code": 472950,
-  "name": "25.11.2026 13:30",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472950.apk",
-  "sha256": "ce4dc85136af4b67e606b5f9b797ebdf24b74c1bc22b281dbb49ec21c1655a8e",
-  "size": 64163709,
-  "notes": "Ana sayfayı aşağı çekince yenilenir ve güncelleme kontrol edilir. Sol altta son güncelleme saati."
+  "code": 473013,
+  "name": "25.11.2026 14:33",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473013.apk",
+  "sha256": "c97d15cd98206c4379c223fd47c618356c0c1d659cc941d06f128fe0c4761133",
+  "size": 64589937,
+  "notes": "Yeni: Mutfağını tanıyalım (Ayarlar), Gün sonu ve evin rutinleri (Ayarlar > Rutinler ve gün sonu), tanıtım rehberi."
 }
