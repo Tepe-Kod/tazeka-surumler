@@ -1,8 +1,8 @@
 {
-  "code": 472788,
-  "name": "25.11.2026 10:48",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472788.apk",
-  "sha256": "4fc57839c0c6142049e83c090a6bd99829097a5b958912c05305b96b38b5cb65",
-  "size": 64016233,
-  "notes": "Ana sayfa yeni düzen: Alışveriş ve Notlar yan yana. Notlarda bildir, arama ve büyütme. Güncelleme olunca köşede etiket."
+  "code": 472846,
+  "name": "25.11.2026 11:46",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472846.apk",
+  "sha256": "2910f69c7766bcf54c3403a93e1544443ce63d4a6fbe840c26ad3b3cc41a4ab9",
+  "size": 64016229,
+  "notes": "Menü > Uygulama: son 5 sürümün yenilikleri görünüyor."
 }

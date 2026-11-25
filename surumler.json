@@ -1,0 +1,87 @@
+[
+  {
+    "code": 472846,
+    "name": "25.11.2026 11:46",
+    "notes": "Menü > Uygulama: son 5 sürümün yenilikleri görünüyor."
+  },
+  {
+    "code": 472788,
+    "name": "25.11.2026 10:48",
+    "notes": "Ana sayfa yeni düzen: Alışveriş ve Notlar yan yana. Notlarda bildir, arama ve büyütme. Güncelleme olunca köşede etiket."
+  },
+  {
+    "code": 472749,
+    "name": "25.11.2026 10:09",
+    "notes": "Yeni: Ev notları (ana sayfada Notlar). Yemek yazma paneli yenilendi: Fikir ver, diyetine göre öner."
+  },
+  {
+    "code": 472069,
+    "name": "24.11.2026 22:49",
+    "notes": "Haftalık listede diyet yemekleri düzenlenebilir. Yeni: Eksikleri bul, alışveriş listesine ekle."
+  },
+  {
+    "code": 471649,
+    "name": "24.11.2026 15:49",
+    "notes": "Haftalık menü düzeltildi: diyet seçmeden de hazırlanır, daha hızlı, hata olursa nedeni yazar."
+  },
+  {
+    "code": 471527,
+    "name": "24.11.2026 13:47",
+    "notes": "Premium ekranının görünümü düzeltildi."
+  },
+  {
+    "code": 471506,
+    "name": "24.11.2026 13:26",
+    "notes": "Premium üyelik: 7 gün ücretsiz deneme, sonra haftada 5 yapay zekâ hakkı. Hesabım > Premium. Haftalık menü düzeltildi."
+  },
+  {
+    "code": 470638,
+    "name": "23.11.2026 22:58",
+    "notes": "Haftalık menü hazırlama: kalori, diyetler, kişiye özel diyet menüsü, alışkanlıklar ve haftanın eksikleri."
+  },
+  {
+    "code": 469989,
+    "name": "23.11.2026 12:09",
+    "notes": "Dolapta 'Yeni' işareti; yemek önerisinde 'Başka öner'."
+  },
+  {
+    "code": 469970,
+    "name": "23.11.2026 11:50",
+    "notes": "Ekmek paneli tüm ekmekleri gösterir; güncelleme arka planda iner; tarifler menüye eklenir; yapay zekâ beklerken ne yaptığı yazar."
+  },
+  {
+    "code": 469910,
+    "name": "23.11.2026 10:50",
+    "notes": "Widget düzeltildi, ana sayfa düğmeleri düzeldi, Yemek Öner yanında Ekmek düğmesi."
+  },
+  {
+    "code": 469877,
+    "name": "23.11.2026 10:17",
+    "notes": "Yeni widget'lar, ekmek göstergesi, yeni Hızlı Ekle/Çıkar, Hesabım, sade menü, ölçülü tarifler."
+  },
+  {
+    "code": 469118,
+    "name": "22.11.2026 21:38",
+    "notes": "Yönetim ekranı ve kullanım istatistikleri."
+  },
+  {
+    "code": 469090,
+    "name": "22.11.2026 21:10",
+    "notes": "Hesap silme artık takılmadan tamamlanıyor."
+  },
+  {
+    "code": 469066,
+    "name": "22.11.2026 20:46",
+    "notes": "Güncellemeler artık yalnızca TepeKod adresinden."
+  },
+  {
+    "code": 469027,
+    "name": "22.11.2026 20:07",
+    "notes": "Adresler TepeKod'a taşındı."
+  },
+  {
+    "code": 468988,
+    "name": "22.11.2026 19:28",
+    "notes": "Taşıma hazırlığı: güncellemeler artık yeni TepeKod adresinden de okunuyor. Görünür bir değişiklik yok."
+  }
+]
