@@ -1,5 +1,10 @@
 [
   {
+    "code": 473488,
+    "name": "25.11.2026 22:28",
+    "notes": "Fiyat karşılaştırma: alışveriş listesinde ürünün yanındaki 💰 düğmesi (ya da ürüne basılı tutunca 'Fiyatları karşılaştır'). Ürün; Market Fiyatı (TÜBİTAK, yakın şubelerin fiyatları), Akakçe, Cimri ve Migros, A101, Şok, CarrefourSA sitelerinde uygulamanın içinde sekme sekme aranır. Taze üründe Market Fiyatı, paketli üründe Akakçe önde. Görünecek siteler Mağaza ayarlarından seçilir."
+  },
+  {
     "code": 473419,
     "name": "25.11.2026 21:19",
     "notes": "Ana sayfadaki pazar kartı ikiye bölündü: solda 'Bugün pazar günü' ve öneri sayısı (alışveriş listesini açar), sağda '🧺 Pazardan geldim' (doğrudan dolaba ekleme ekranını açar). Kart rutin günü boyunca görünür; gelindiyse 'Pazardan geldin ✓' yazar."
