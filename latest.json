@@ -1,8 +1,8 @@
 {
-  "code": 473013,
-  "name": "25.11.2026 14:33",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473013.apk",
-  "sha256": "c97d15cd98206c4379c223fd47c618356c0c1d659cc941d06f128fe0c4761133",
-  "size": 64589937,
-  "notes": "Yeni: Mutfağını tanıyalım (Ayarlar), Gün sonu ve evin rutinleri (Ayarlar > Rutinler ve gün sonu), tanıtım rehberi."
+  "code": 473177,
+  "name": "25.11.2026 17:17",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473177.apk",
+  "sha256": "a1c11af819674843d390797e4e7cb4a5fd95bcda3565a3eb5bb4a981cd668335",
+  "size": 64592086,
+  "notes": "Ana sayfada yemekler artık hemen görünüyor. Yeni: Notlar widget'ı (ana ekrana ekleyin)."
 }
