@@ -1,5 +1,10 @@
 [
   {
+    "code": 473419,
+    "name": "25.11.2026 21:19",
+    "notes": "Ana sayfadaki pazar kartı ikiye bölündü: solda 'Bugün pazar günü' ve öneri sayısı (alışveriş listesini açar), sağda '🧺 Pazardan geldim' (doğrudan dolaba ekleme ekranını açar). Kart rutin günü boyunca görünür; gelindiyse 'Pazardan geldin ✓' yazar."
+  },
+  {
     "code": 473320,
     "name": "25.11.2026 19:40",
     "notes": "Alışveriş rutinleri (Ayarlar > Alışveriş rutinleri): Pazar, Market gibi günler ve ürünler. O gün alışveriş listesinin üstünde dolapta olmayan ya da azalan ürünler öneri olarak çıkar (Listeye ekle / Hepsini listeye ekle). Eve gelince '🧺 Pazardan geldim': ürünler her zamanki miktarlarıyla işaretli gelir, tek düğmeyle dolaba eklenir ve listeden düşer. Miktarlar öğrenilir, sık alınanlar için 'Rutine ekleyeyim mi?' sorulur. Sabah bildirimi (08:00, değiştirilebilir)."

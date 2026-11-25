@@ -1,8 +1,8 @@
 {
-  "code": 473320,
-  "name": "25.11.2026 19:40",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473320.apk",
-  "sha256": "587603d28017d8f21e7a361ee0b8d73e8dfd512530fcf845f31a9b1c415b1053",
+  "code": 473419,
+  "name": "25.11.2026 21:19",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473419.apk",
+  "sha256": "128b7683bacd6915bdf58311fd94e5892a4ce270abec55f63d09b73f33ca77e9",
   "size": 64870686,
-  "notes": "Alışveriş rutinleri (Ayarlar > Alışveriş rutinleri): Pazar, Market gibi günler ve ürünler. O gün alışveriş listesinin üstünde dolapta olmayan ya da azalan ürünler öneri olarak çıkar (Listeye ekle / Hepsini listeye ekle). Eve gelince '🧺 Pazardan geldim': ürünler her zamanki miktarlarıyla işaretli gelir, tek düğmeyle dolaba eklenir ve listeden düşer. Miktarlar öğrenilir, sık alınanlar için 'Rutine ekleyeyim mi?' sorulur. Sabah bildirimi (08:00, değiştirilebilir)."
+  "notes": "Ana sayfadaki pazar kartı ikiye bölündü: solda 'Bugün pazar günü' ve öneri sayısı (alışveriş listesini açar), sağda '🧺 Pazardan geldim' (doğrudan dolaba ekleme ekranını açar). Kart rutin günü boyunca görünür; gelindiyse 'Pazardan geldin ✓' yazar."
 }
