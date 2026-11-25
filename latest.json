@@ -1,8 +1,8 @@
 {
-  "code": 472749,
-  "name": "25.11.2026 10:09",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472749.apk",
-  "sha256": "58a2853a1129cf5dfb1abfd283c206406d9787fc81065fe72433572f90787254",
-  "size": 63967005,
-  "notes": "Yeni: Ev notları (ana sayfada Notlar). Yemek yazma paneli yenilendi: Fikir ver, diyetine göre öner."
+  "code": 472788,
+  "name": "25.11.2026 10:48",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-472788.apk",
+  "sha256": "4fc57839c0c6142049e83c090a6bd99829097a5b958912c05305b96b38b5cb65",
+  "size": 64016233,
+  "notes": "Ana sayfa yeni düzen: Alışveriş ve Notlar yan yana. Notlarda bildir, arama ve büyütme. Güncelleme olunca köşede etiket."
 }
