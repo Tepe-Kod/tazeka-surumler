@@ -1,8 +1,8 @@
 {
-  "code": 473527,
-  "name": "25.11.2026 23:07",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473527.apk",
-  "sha256": "4edb2f716f2ba71dcfc5ea063e77df32d113ce1d20ad470754d3dcb11e808e8b",
+  "code": 473548,
+  "name": "25.11.2026 23:28",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473548.apk",
+  "sha256": "a34a44579d4195cfd0fea7e4f39d5f3265f0b870106d913aa028cbafd6bde6f0",
   "size": 65591963,
-  "notes": "Fiyat ekranı düzeltmeleri: A101 artık Kapıda (market) aramasını açıyor; arama adresleri sitelerin kendi biçimiyle. Cimri telefonun tarayıcısında açılıyor. Taze ürünlerde sıra: Market Fiyatı, marketler, en sonda Akakçe ve Cimri (yerel marketleri göstermiyorlar)."
+  "notes": "Ana sayfada 'Önce bunları tüket' bölümüne büyüt/küçült (satır ve kare görünüm, telefonda hatırlanır). Fiyat ekranından Akakçe ve Cimri çıkarıldı. Alışveriş listesinde 🔍 'Diğer mağazalarda ara' düğmesi satıra geri geldi."
 }

@@ -1,5 +1,10 @@
 [
   {
+    "code": 473548,
+    "name": "25.11.2026 23:28",
+    "notes": "Ana sayfada 'Önce bunları tüket' bölümüne büyüt/küçült (satır ve kare görünüm, telefonda hatırlanır). Fiyat ekranından Akakçe ve Cimri çıkarıldı. Alışveriş listesinde 🔍 'Diğer mağazalarda ara' düğmesi satıra geri geldi."
+  },
+  {
     "code": 473527,
     "name": "25.11.2026 23:07",
     "notes": "Fiyat ekranı düzeltmeleri: A101 artık Kapıda (market) aramasını açıyor; arama adresleri sitelerin kendi biçimiyle. Cimri telefonun tarayıcısında açılıyor. Taze ürünlerde sıra: Market Fiyatı, marketler, en sonda Akakçe ve Cimri (yerel marketleri göstermiyorlar)."
