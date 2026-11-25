@@ -28,8 +28,7 @@ ve nasıl korunduğunu anlatır.
   bulmak ve maliyeti kontrol etmek için yalnızca TepeKod görür. Hesabınızı
   silerseniz bu kayıtlar adınız ve e-postanız olmadan istatistik olarak kalır.
 - **Fiyat karşılaştırma:** alışveriş listesinde 💰 düğmesine dokunduğunuzda
-  ürünün adı, seçtiğiniz sitede (Market Fiyatı, Akakçe, Cimri ya da mağaza
-  siteleri) uygulamanın içindeki tarayıcıda aranır. Bu sitelere yalnızca
+  ürünün adı, seçtiğiniz sitede (Market Fiyatı ya da mağaza siteleri) uygulamanın içindeki tarayıcıda aranır. Bu sitelere yalnızca
   ürün adı gider; adınız, e-postanız ve mutfak bilgileriniz gönderilmez.
   Sitelerde gezinirken o sitelerin kendi gizlilik politikaları geçerlidir.
 - **Abonelik bilgileri:** Premium satın alırsanız ödeme Google Play
@@ -45,8 +44,8 @@ ve nasıl korunduğunu anlatır.
 - Google Firebase (giriş, veritabanı, yapay zekâ)
 - Google Play Faturalandırma ve RevenueCat (Premium abonelik)
 - Open Food Facts (barkod bilgisi)
-- Fiyat karşılaştırmada açtığınız siteler: Market Fiyatı (TÜBİTAK), Akakçe,
-  Cimri ve mağaza siteleri
+- Fiyat karşılaştırmada açtığınız siteler: Market Fiyatı (TÜBİTAK) ve mağaza
+  siteleri
 
 ## Paylaşım
 
