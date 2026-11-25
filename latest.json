@@ -1,8 +1,8 @@
 {
-  "code": 473284,
-  "name": "25.11.2026 19:04",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473284.apk",
-  "sha256": "8e88b8d2b3d6b202d06b7f2fb77953036d61381f4c7453d65c5c109fccfa4ac8",
-  "size": 64674074,
-  "notes": "Gün sonu: ana sayfanın altında her zaman duran küçük '🌙 Bugün ne tükettiniz?' düğmesi. Dondurucudaki yemekler artık sorulmuyor; buzdolabı ve mutfaktaki pişmiş yemekler (börek, kek gibi fırın işleri dahil) soruluyor. Tarihi yaklaşanlarda ve pişmiş yemeklerde '🗑 Bozuldu' seçeneği. Hızlı eklemede kutunun adı 'Ürün ekle / çıkar'."
+  "code": 473320,
+  "name": "25.11.2026 19:40",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473320.apk",
+  "sha256": "587603d28017d8f21e7a361ee0b8d73e8dfd512530fcf845f31a9b1c415b1053",
+  "size": 64870686,
+  "notes": "Alışveriş rutinleri (Ayarlar > Alışveriş rutinleri): Pazar, Market gibi günler ve ürünler. O gün alışveriş listesinin üstünde dolapta olmayan ya da azalan ürünler öneri olarak çıkar (Listeye ekle / Hepsini listeye ekle). Eve gelince '🧺 Pazardan geldim': ürünler her zamanki miktarlarıyla işaretli gelir, tek düğmeyle dolaba eklenir ve listeden düşer. Miktarlar öğrenilir, sık alınanlar için 'Rutine ekleyeyim mi?' sorulur. Sabah bildirimi (08:00, değiştirilebilir)."
 }

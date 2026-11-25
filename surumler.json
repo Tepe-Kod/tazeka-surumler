@@ -1,5 +1,10 @@
 [
   {
+    "code": 473320,
+    "name": "25.11.2026 19:40",
+    "notes": "Alışveriş rutinleri (Ayarlar > Alışveriş rutinleri): Pazar, Market gibi günler ve ürünler. O gün alışveriş listesinin üstünde dolapta olmayan ya da azalan ürünler öneri olarak çıkar (Listeye ekle / Hepsini listeye ekle). Eve gelince '🧺 Pazardan geldim': ürünler her zamanki miktarlarıyla işaretli gelir, tek düğmeyle dolaba eklenir ve listeden düşer. Miktarlar öğrenilir, sık alınanlar için 'Rutine ekleyeyim mi?' sorulur. Sabah bildirimi (08:00, değiştirilebilir)."
+  },
+  {
     "code": 473284,
     "name": "25.11.2026 19:04",
     "notes": "Gün sonu: ana sayfanın altında her zaman duran küçük '🌙 Bugün ne tükettiniz?' düğmesi. Dondurucudaki yemekler artık sorulmuyor; buzdolabı ve mutfaktaki pişmiş yemekler (börek, kek gibi fırın işleri dahil) soruluyor. Tarihi yaklaşanlarda ve pişmiş yemeklerde '🗑 Bozuldu' seçeneği. Hızlı eklemede kutunun adı 'Ürün ekle / çıkar'."
