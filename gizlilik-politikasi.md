@@ -1,6 +1,6 @@
 # TAZEKA Gizlilik Politikası
 
-Son güncelleme: 24 Kasım 2026 (Premium abonelik eklendi)
+Son güncelleme: 25 Kasım 2026 (fiyat karşılaştırma eklendi)
 
 TAZEKA, ailelerin mutfaklarındaki ürünleri birlikte takip etmesi için
 TepeKod tarafından geliştirilmiş bir uygulamadır. Bu sayfa hangi bilgilerin neden toplandığını
@@ -27,6 +27,11 @@ ve nasıl korunduğunu anlatır.
   metin bu kayıtlara girmez. Uygulamanın düzgün çalışmasını izlemek, hataları
   bulmak ve maliyeti kontrol etmek için yalnızca TepeKod görür. Hesabınızı
   silerseniz bu kayıtlar adınız ve e-postanız olmadan istatistik olarak kalır.
+- **Fiyat karşılaştırma:** alışveriş listesinde 💰 düğmesine dokunduğunuzda
+  ürünün adı, seçtiğiniz sitede (Market Fiyatı, Akakçe, Cimri ya da mağaza
+  siteleri) uygulamanın içindeki tarayıcıda aranır. Bu sitelere yalnızca
+  ürün adı gider; adınız, e-postanız ve mutfak bilgileriniz gönderilmez.
+  Sitelerde gezinirken o sitelerin kendi gizlilik politikaları geçerlidir.
 - **Abonelik bilgileri:** Premium satın alırsanız ödeme Google Play
   üzerinden yapılır; kart bilgileriniz TAZEKA'ya ya da TepeKod'a ulaşmaz.
   Aboneliğin geçerli olup olmadığını doğrulamak için satın alma kaydı
@@ -40,6 +45,8 @@ ve nasıl korunduğunu anlatır.
 - Google Firebase (giriş, veritabanı, yapay zekâ)
 - Google Play Faturalandırma ve RevenueCat (Premium abonelik)
 - Open Food Facts (barkod bilgisi)
+- Fiyat karşılaştırmada açtığınız siteler: Market Fiyatı (TÜBİTAK), Akakçe,
+  Cimri ve mağaza siteleri
 
 ## Paylaşım
 
