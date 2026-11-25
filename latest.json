@@ -1,8 +1,8 @@
 {
-  "code": 473177,
-  "name": "25.11.2026 17:17",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473177.apk",
-  "sha256": "a1c11af819674843d390797e4e7cb4a5fd95bcda3565a3eb5bb4a981cd668335",
-  "size": 64592086,
-  "notes": "Ana sayfada yemekler artık hemen görünüyor. Yeni: Notlar widget'ı (ana ekrana ekleyin)."
+  "code": 473246,
+  "name": "25.11.2026 18:26",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-473246.apk",
+  "sha256": "be0a6f5daf2a240b34b65419c77c45ad38fe2947dc802f8050eff4a62a4b1fd6",
+  "size": 64674078,
+  "notes": "Dolabım: kare görünümde basılı tutunca çoklu seçim (Sil, Yedim, Attım). Sesle eklemede 'Tekrar söyle' düğmesi."
 }
