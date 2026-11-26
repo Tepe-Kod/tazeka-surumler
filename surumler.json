@@ -1,5 +1,10 @@
 [
   {
+    "code": 474276,
+    "name": "26.11.2026 11:36",
+    "notes": "Yapay zekâ daha az hata verir: yavaş isteklerde bekleme süreleri uzatıldı, yoğunlukta birkaç saniye bekleyip yeniden deneniyor, haftalık menü istekleri aynı anda değil ikişer ikişer gidiyor. Premium'da aylık 200 yapay zekâ hakkı (adil kullanım); %80'de uyarı, Premium ekranında bu ayın kullanımı. Yönetim: genel ve eve özel aylık hak, yaklaşık maliyet (dolar/TL), fiyat ve kur ayarı."
+  },
+  {
     "code": 473548,
     "name": "25.11.2026 23:28",
     "notes": "Ana sayfada 'Önce bunları tüket' bölümüne büyüt/küçült (satır ve kare görünüm, telefonda hatırlanır). Fiyat ekranından Akakçe ve Cimri çıkarıldı. Alışveriş listesinde 🔍 'Diğer mağazalarda ara' düğmesi satıra geri geldi."
