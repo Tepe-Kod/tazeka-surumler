@@ -1,5 +1,10 @@
 [
   {
+    "code": 475677,
+    "name": "27.11.2026 10:57",
+    "notes": "Yemek düzenleme panelinde Sil ve Kaydet artık telefonun alt tuşlarının arkasında kalmıyor (diğer paneller de düzeltildi). Haftalık yemek listesinde ⋮ > Menüyü temizle: haftanın tamamı, bugünden sonrası ya da yalnızca diyet yemekleri; gün başlığında 'Bu günü temizle'. Silmeden önce onay sorulur, sonra 'Geri al' çıkar. Notlarda günü geçmiş hatırlatmalar turuncu zeminde, güncel notların altında."
+  },
+  {
     "code": 474276,
     "name": "26.11.2026 11:36",
     "notes": "Yapay zekâ daha az hata verir: yavaş isteklerde bekleme süreleri uzatıldı, yoğunlukta birkaç saniye bekleyip yeniden deneniyor, haftalık menü istekleri aynı anda değil ikişer ikişer gidiyor. Premium'da aylık 200 yapay zekâ hakkı (adil kullanım); %80'de uyarı, Premium ekranında bu ayın kullanımı. Yönetim: genel ve eve özel aylık hak, yaklaşık maliyet (dolar/TL), fiyat ve kur ayarı."
@@ -143,10 +148,5 @@
     "code": 469027,
     "name": "22.11.2026 20:07",
     "notes": "Adresler TepeKod'a taşındı."
-  },
-  {
-    "code": 468988,
-    "name": "22.11.2026 19:28",
-    "notes": "Taşıma hazırlığı: güncellemeler artık yeni TepeKod adresinden de okunuyor. Görünür bir değişiklik yok."
   }
 ]

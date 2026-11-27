@@ -1,8 +1,8 @@
 {
-  "code": 474276,
-  "name": "26.11.2026 11:36",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-474276.apk",
-  "sha256": "339e02d452a4f90f61a6661e5d1cab0bc9f831c46ecac1d77f57a9d3dd1fa6d9",
-  "size": 65690363,
-  "notes": "Yapay zekâ daha az hata verir: yavaş isteklerde bekleme süreleri uzatıldı, yoğunlukta birkaç saniye bekleyip yeniden deneniyor, haftalık menü istekleri aynı anda değil ikişer ikişer gidiyor. Premium'da aylık 200 yapay zekâ hakkı (adil kullanım); %80'de uyarı, Premium ekranında bu ayın kullanımı. Yönetim: genel ve eve özel aylık hak, yaklaşık maliyet (dolar/TL), fiyat ve kur ayarı."
+  "code": 475677,
+  "name": "27.11.2026 10:57",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-475677.apk",
+  "sha256": "d37b6c232c843edf297bba850cce521ce78f28801139bcdbde12de7033a7f56d",
+  "size": 65723131,
+  "notes": "Yemek düzenleme panelinde Sil ve Kaydet artık telefonun alt tuşlarının arkasında kalmıyor (diğer paneller de düzeltildi). Haftalık yemek listesinde ⋮ > Menüyü temizle: haftanın tamamı, bugünden sonrası ya da yalnızca diyet yemekleri; gün başlığında 'Bu günü temizle'. Silmeden önce onay sorulur, sonra 'Geri al' çıkar. Notlarda günü geçmiş hatırlatmalar turuncu zeminde, güncel notların altında."
 }
