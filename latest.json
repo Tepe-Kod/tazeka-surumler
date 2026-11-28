@@ -1,8 +1,8 @@
 {
-  "code": 475677,
-  "name": "27.11.2026 10:57",
-  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-475677.apk",
-  "sha256": "d37b6c232c843edf297bba850cce521ce78f28801139bcdbde12de7033a7f56d",
-  "size": 65723131,
-  "notes": "Yemek düzenleme panelinde Sil ve Kaydet artık telefonun alt tuşlarının arkasında kalmıyor (diğer paneller de düzeltildi). Haftalık yemek listesinde ⋮ > Menüyü temizle: haftanın tamamı, bugünden sonrası ya da yalnızca diyet yemekleri; gün başlığında 'Bu günü temizle'. Silmeden önce onay sorulur, sonra 'Geri al' çıkar. Notlarda günü geçmiş hatırlatmalar turuncu zeminde, güncel notların altında."
+  "code": 476936,
+  "name": "28.11.2026 07:56",
+  "url": "https://raw.githubusercontent.com/Tepe-Kod/tazeka-surumler/main/tazeka-476936.apk",
+  "sha256": "6e52f9687bd69026e25806b0260ebf1355e687b58aaf929c9e5b5ea314015591",
+  "size": 65739603,
+  "notes": "Hızlı eklemede ve alışveriş listesinde ürün yazarken '🌐 İnternette bulunanlar': markalı ürünlerin tam adı ve görseli (Open Food Facts). Dokununca o adla ve görseliyle eklenir; alışveriş listesinden dolaba da görseliyle geçer."
 }

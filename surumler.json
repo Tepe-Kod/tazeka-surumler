@@ -1,5 +1,10 @@
 [
   {
+    "code": 476936,
+    "name": "28.11.2026 07:56",
+    "notes": "Hızlı eklemede ve alışveriş listesinde ürün yazarken '🌐 İnternette bulunanlar': markalı ürünlerin tam adı ve görseli (Open Food Facts). Dokununca o adla ve görseliyle eklenir; alışveriş listesinden dolaba da görseliyle geçer."
+  },
+  {
     "code": 475677,
     "name": "27.11.2026 10:57",
     "notes": "Yemek düzenleme panelinde Sil ve Kaydet artık telefonun alt tuşlarının arkasında kalmıyor (diğer paneller de düzeltildi). Haftalık yemek listesinde ⋮ > Menüyü temizle: haftanın tamamı, bugünden sonrası ya da yalnızca diyet yemekleri; gün başlığında 'Bu günü temizle'. Silmeden önce onay sorulur, sonra 'Geri al' çıkar. Notlarda günü geçmiş hatırlatmalar turuncu zeminde, güncel notların altında."
@@ -143,10 +148,5 @@
     "code": 469066,
     "name": "22.11.2026 20:46",
     "notes": "Güncellemeler artık yalnızca TepeKod adresinden."
-  },
-  {
-    "code": 469027,
-    "name": "22.11.2026 20:07",
-    "notes": "Adresler TepeKod'a taşındı."
   }
 ]
