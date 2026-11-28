@@ -1,6 +1,6 @@
 # TAZEKA Gizlilik Politikası
 
-Son güncelleme: 25 Kasım 2026 (fiyat karşılaştırma eklendi)
+Son güncelleme: 28 Kasım 2026 (ürün adıyla arama eklendi)
 
 TAZEKA, ailelerin mutfaklarındaki ürünleri birlikte takip etmesi için
 TepeKod tarafından geliştirilmiş bir uygulamadır. Bu sayfa hangi bilgilerin neden toplandığını
@@ -17,8 +17,10 @@ ve nasıl korunduğunu anlatır.
   Google'ın Gemini hizmetine (Firebase AI Logic) gönderilir. Bazı ürünlerde
   (ör. tencere yemeği) fotoğrafın küçük bir kopyası ürün kaydıyla saklanır;
   ürünü çıkarırken kabı tanımak için kullanılır.
-- **Barkodlar:** okutulan barkod numarası, ürün adını bulmak için Open Food
-  Facts veritabanında aranır.
+- **Barkodlar ve ürün adları:** okutulan barkod numarası ve hızlı eklemede
+  ya da alışveriş listesinde yazdığınız ürün adı, ürünün tam adını ve
+  görselini bulmak için Open Food Facts veritabanında aranır. Bu aramaya
+  adınız ve hesap bilgileriniz eklenmez.
 - **Ses:** sesle ekleme ve sesle yazma, telefonunuzun Google ses tanıma
   hizmetiyle yazıya çevrilir. TAZEKA ses kaydı saklamaz.
 - **Kullanım bilgileri:** uygulamayı en son ne zaman açtığınız, telefonunuzdaki
@@ -43,7 +45,7 @@ ve nasıl korunduğunu anlatır.
 
 - Google Firebase (giriş, veritabanı, yapay zekâ)
 - Google Play Faturalandırma ve RevenueCat (Premium abonelik)
-- Open Food Facts (barkod bilgisi)
+- Open Food Facts (barkod ve ürün adıyla ürün bilgisi ve görseli)
 - Fiyat karşılaştırmada açtığınız siteler: Market Fiyatı (TÜBİTAK) ve mağaza
   siteleri
 
